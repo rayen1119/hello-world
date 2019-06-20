@@ -6,3 +6,4 @@ date: 2019-06-17
 
 if __name__ == '__main__':
     print("Hello github!")
+    print("Hello git!")
