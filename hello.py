@@ -8,3 +8,4 @@ if __name__ == '__main__':
     print("Hello github!")
     # hello world!
     print("test 2,hello")
+    print("Hello git!")
